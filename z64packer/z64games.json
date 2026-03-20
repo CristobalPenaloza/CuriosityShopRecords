@@ -1,9 +1,13 @@
 [
   {
-    "game": "Boris Mokrousov"
+    "game": "Boris Mokrousov",
+    "series": "Songs",
+    "logo": "https://images.genius.com/f7f520d0c345a2eea02082ff69684570.505x505x1.jpg"
   },
   {
-    "game": "Inti Illimani"
+    "game": "Inti Illimani",
+    "series": "Songs",
+    "logo": "https://inti-illimani.cl/wp-content/uploads/2025/01/logo-inti-rojo.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
