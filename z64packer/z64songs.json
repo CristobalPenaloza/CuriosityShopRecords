@@ -46,5 +46,29 @@
     "file": "Boris Mokrousov/Sormovskaya liricheskaya.mmrs",
     "preview": "https://www.youtube.com/watch?v=aqvlKitwPHk"
   },
+  {
+    "uuid": "f27116f4-0301-4741-be12-2b934627da9b",
+    "creationDate": "2026-03-31T01:42:11.507Z",
+    "game": "Mordechai Gebirtig",
+    "song": "Arbetlose Marsch",
+    "composers": [
+      "Mordechai Gebirtig"
+    ],
+    "converters": [
+      "doncamilo"
+    ],
+    "notes": "Used in Master of Time as \"Abello Castle\"",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Mordechai Gebirtig/Arbetlose Marsch.mmrs",
+    "preview": "https://www.youtube.com/watch?v=9zDiBFx9a-g"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
