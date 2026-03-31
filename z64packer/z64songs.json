@@ -68,7 +68,9 @@
     ],
     "usesCustomBank": true,
     "file": "Mordechai Gebirtig/Arbetlose Marsch.mmrs",
-    "preview": "https://www.youtube.com/watch?v=9zDiBFx9a-g"
+    "preview": "https://www.youtube.com/watch?v=9zDiBFx9a-g",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "82f55409-b4c0-46b9-b085-8dd879f40929",
@@ -91,7 +93,10 @@
       "6"
     ],
     "file": "Matvey Blanter/Katyusha (Arr. Master of Time).mmrs",
-    "preview": "https://www.youtube.com/watch?v=saP1atBy1D0"
+    "preview": "https://www.youtube.com/watch?v=saP1atBy1D0",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
