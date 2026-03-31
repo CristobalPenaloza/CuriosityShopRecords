@@ -10,10 +10,14 @@
     "logo": "https://inti-illimani.cl/wp-content/uploads/2025/01/logo-inti-rojo.png"
   },
   {
-    "game": "Mordechai Gebirtig"
+    "game": "Mordechai Gebirtig",
+    "series": "Songs",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Mordechaj_Gebirtig.jpg"
   },
   {
-    "game": "Matvey Blanter"
+    "game": "Matvey Blanter",
+    "series": "Songs",
+    "logo": "https://images.genius.com/e847d292cffe620c10da319b81d12052.981x981x1.jpg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

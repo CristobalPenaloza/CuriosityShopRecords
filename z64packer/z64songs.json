@@ -3,14 +3,14 @@
     "uuid": "bd3fd5c6-7fee-4b3a-83c4-7cbf9081b3c3",
     "creationDate": "2026-03-19T19:27:16.719Z",
     "game": "Inti Illimani",
-    "song": "San Juanito",
+    "song": "San Juanito (Arr. Master of Time)",
     "composers": [
       "Benjamín Aguilera"
     ],
     "converters": [
-      "Fish"
+      "doncamilo"
     ],
-    "isDMCACritical": false,
+    "notes": "Used in Master of Time as \"Scrub Cliff / Path of Gods\"",
     "type": "bgm",
     "categories": [
       "0"
@@ -18,21 +18,21 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "usesFormmask": false,
-    "file": "Inti Illimani/San Juanito.mmrs",
-    "preview": "https://www.youtube.com/watch?v=D9wryXEMSx8"
+    "file": "Inti Illimani/San Juanito (Arr. Master of Time).mmrs",
+    "preview": "https://www.youtube.com/watch?v=DxNkxqt0qJM"
   },
   {
     "uuid": "5f144be0-fa67-479a-9686-56e84f5cd03f",
     "creationDate": "2026-03-19T19:30:37.235Z",
     "game": "Boris Mokrousov",
-    "song": "Sormovskaya liricheskaya",
+    "song": "Sormovskaya Liricheskaya (Arr. Master of Time)",
     "composers": [
       "Boris Mokrousov"
     ],
     "converters": [
-      "Fish"
+      "doncamilo"
     ],
-    "isDMCACritical": false,
+    "notes": "Used in Master of Time as \"Sagnol Village\"",
     "type": "bgm",
     "categories": [
       "1",
@@ -43,14 +43,14 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Boris Mokrousov/Sormovskaya liricheskaya.mmrs",
-    "preview": "https://www.youtube.com/watch?v=aqvlKitwPHk"
+    "file": "Boris Mokrousov/Sormovskaya Liricheskaya (Arr. Master of Time).mmrs",
+    "preview": "https://www.youtube.com/watch?v=5GNKvbJ9IyM"
   },
   {
     "uuid": "f27116f4-0301-4741-be12-2b934627da9b",
     "creationDate": "2026-03-31T01:42:11.507Z",
     "game": "Mordechai Gebirtig",
-    "song": "Arbetlose Marsch",
+    "song": "Arbetlose Marsch (Arr. Master of Time)",
     "composers": [
       "Mordechai Gebirtig"
     ],
@@ -67,7 +67,7 @@
       "6"
     ],
     "usesCustomBank": true,
-    "file": "Mordechai Gebirtig/Arbetlose Marsch.mmrs",
+    "file": "Mordechai Gebirtig/Arbetlose Marsch (Arr. Master of Time).mmrs",
     "preview": "https://www.youtube.com/watch?v=9zDiBFx9a-g",
     "usesCustomSamples": false,
     "usesFormmask": false
