@@ -98,5 +98,24 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "38522570-586f-4e7f-8d88-729c40711d43",
+    "creationDate": "2026-05-20T19:50:32.557Z",
+    "game": "Digimon Tamers",
+    "song": "The Biggest Dreamer",
+    "composers": [
+      "Michihiko Ohta"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Digimon Tamers/The Biggest Dreamer.mmrs",
+    "preview": "Digimon Tamers/The Biggest Dreamer.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
