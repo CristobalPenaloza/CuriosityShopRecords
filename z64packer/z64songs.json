@@ -117,5 +117,24 @@
     "file": "Digimon Tamers/The Biggest Dreamer.mmrs",
     "preview": "Digimon Tamers/The Biggest Dreamer.ogg"
   },
+  {
+    "uuid": "b14c9bb3-c770-4f9d-8d46-20c2b2157926",
+    "creationDate": "2026-05-20T20:29:26.035Z",
+    "game": "D.N.Angel",
+    "song": "Frozen Flower",
+    "composers": [
+      "Osamu Marumoto"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "D.N.Angel/Frozen Flower.mmrs",
+    "preview": "D.N.Angel/Frozen Flower.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
